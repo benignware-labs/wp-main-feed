@@ -2,7 +2,7 @@
 > Apply filters on your main feed
 
 ## Usage
-This plugin let's you setup default filters on your standard wordpress feed. 
+This plugin lets you setup default filters on your standard wordpress feed. 
 For example, you could manually publish an individual archive feed under your main feed's url, i.e. `http://myblog.com/feed`.
 Currently supported query vars contain `year`, `month`, `category`, `tag`.
 
