@@ -10,7 +10,7 @@ Apply filters on your main feed
 
 == Description ==
 
-This plugin let's you customize your main feed's query vars.
+This plugin lets you customize your main feed's query vars.
 
 = Website =
 http://github.com/benignware-labs
